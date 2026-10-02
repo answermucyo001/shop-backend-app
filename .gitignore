@@ -79,7 +79,7 @@ jspm_packages/
 .env.test.local
 .env.production.local
 .env.local
-
+npm-debug.log*
 # Next.js build output
 .next/
 out/
